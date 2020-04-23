@@ -1,0 +1,95 @@
+<!doctype html> <!-- indexList.html-->
+<html>
+<head>
+ <meta charset="utf-8"/>
+ <meta name="viewport"content="width=device-width,initial-scale=1"/>
+ <style>
+   a:link {color:blue;text-decoration:none;}a:visited {color:purple;text-decoration:none;}
+   a:hover {text-decoration:underline;}a:active {color:red; text-decoration:none;}
+ </style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+ <title>2020년 인터넷 수강</title></head>
+<body>
+  <header></header>
+  <section>
+  <p>주차별 예제 목록표</p>
+ <h1 id="1List">20131620 김진수 인터넷응용 </h1>
+ <ul>
+    <li> 3-1 
+   <ol type="1">
+    <li> <a href="https://kjsu1994.github.io/basicHeading.html" target="_blank">basicHeading.html</a></li>
+    <li> <a href="https://kjsu1994.github.io/basicPBrHr.html" target="_blank">basicPBrHr.html</a></li>
+    </ol>
+    </li>
+    <li> 3-2 
+   <ol type="1">
+    <li> <a href="https://kjsu1994.github.io/basicChar.html" target="_blank">basicChar.html</a></li>
+    <li> <a href="https://kjsu1994.github.io/KoreanAnthem4.html" target="_blank">KoreanAnthem4.html</a></li>
+    </ol>
+    </li>
+        <li> 3-3
+   <ol type="1">
+    <li> <a href="https://kjsu1994.github.io/Homework.html" target="_blank">Homework.html</a></li>
+    </ol>
+    </li>
+        <li> 4-1
+   <ol type="1">
+    <li> <a href="https://kjsu1994.github.io/basicList.html" target="_blank">basicList.html</a></li>
+    </ol>
+    </li>
+        <li> 4-2
+   <ol type="1">
+    <li> <a href="https://kjsu1994.github.io/basicDlist.html" target="_blank">basicDlist.html</a></li>
+    <li> <a href="https://kjsu1994.github.io/koreaAnthem3.html" target="_blank">koreaAnthem3.html</a></li>
+    </ol>
+    </li>
+        <li>4-3
+   <ol type="1">
+    <li> <a href="https://kjsu1994.github.io/basicTable.html" target="_blank">basicTable.html</a></li>
+    <li> <a href="https://kjsu1994.github.io/tableSpan.html" target="_blank">tableSpan.html</a></li>
+    <li> <a href="https://kjsu1994.github.io/advTable.html" target="_blank">advTable.html</a></li>
+    <li> <a href="https://kjsu1994.github.io/advTable1.html" target="_blank">advTable1.html</a></li>
+    <li> <a href="https://kjsu1994.github.io/subjectTable1.html" target="_blank">subjectTable1.html</a></li>
+    </ol>
+    </li>
+        <li>5-1
+   <ol type="1">
+    <li> <a href="https://kjsu1994.github.io/divSpan.html" target="_blank">divSpan.html</a></li>
+    <li> <a href="https://kjsu1994.github.io/basicPDivSpan.html" target="_blank">basicPDivSpan.html</a></li>
+    </ol>
+    </li>
+<li>5-2
+   <ol type="1">
+    <li> <a href="https://kjsu1994.github.io/basicDiv.html" target="_blank">basicDiv.html</a></li>
+    <li> <a href="https://kjsu1994.github.io/advDiv.html" target="_blank">advDiv.html</a></li>
+    </ol>
+    </li>
+<li>5-3
+   <ol type="1">
+    <li> <a href="https://kjsu1994.github.io/basicSemantic.html" target="_blank">basicSemantic.html</a></li>
+    <li> <a href="https://kjsu1994.github.io/basicModel.html" target="_blank">basicModel.html</a></li>
+    </ol>
+    </li>
+<li>6-1
+   <ol type="1">
+    <li> <a href="https://kjsu1994.github.io/anchor1.html" target="_blank">anchor1.html</a></li>
+    <li> <a href="https://kjsu1994.github.io/advAnchor.html" target="_blank">advAnchor.html</a></li>
+  <li> <a href="https://kjsu1994.github.io/basicSemantic1.html" target="_blank">basicSemantic1.html</a></li>
+    </ol>
+    </li>
+<li>6-2
+   <ol type="1">
+    <li> <a href="https://kjsu1994.github.io/basicImage.html" target="_blank">basicImage.html</a></li>
+    <li> <a href="https://kjsu1994.github.io/basicSemantic2.html" target="_blank">basicSemantic2.html</a></li>
+    </ol>
+    </li>
+<li>6-3
+   <ol type="1">
+    <li> <a href="https://kjsu1994.github.io/koreaAnthem.html" target="_blank">koreaAnthem.html</a></li>
+    <li> <a href="https://kjsu1994.github.io/koreaAnthem3.html" target="_blank">koreaAnthem3.html</a></li>
+    </ol>
+    </li>
+ </ul>
+  </section>
+</body>
+</html>
